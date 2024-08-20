@@ -244,6 +244,9 @@ Acceptance testing is the last phase of functional testing and is used to assess
 
 
 #Part 2: Introduction to AI and Prompt Engineering
+
+
+
 Define prompt engineering and discuss its importance in interacting with AI models.
 - To define prompt engineering we need to front first Generative AI, what is Generative AI? Generative artificial intelligence (generative AI) is a type of AI that can create new content and ideas, including conversations, stories, images, videos, and music. AI technologies attempt to mimic human intelligence in nontraditional computing tasks like image recognition, natural language processing (NLP), and translation.
 - Prompt engineering is the process where you guide generative artificial intelligence (generative AI) solutions to generate desired outputs. Generative AI requires detailed instructions to create high-quality and relevant output. In prompt engineering, you choose the most appropriate formats, phrases, words, and symbols that guide the AI to interact with your users more meaningfully.
