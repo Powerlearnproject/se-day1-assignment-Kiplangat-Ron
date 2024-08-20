@@ -27,14 +27,14 @@ Software engineering has evolved significantly over the decades, driven by advan
    Structured programming emerged in the late 1960s and early 1970s as a way to improve the clarity, quality, and development time of software. It introduced the idea of breaking down programs into smaller, manageable modules or procedures, using control structures like loops, conditionals, and subroutines.
    Key Contributors: Prominent figures like Edsger Dijkstra, who famously argued against the use of the GOTO statement, played a crucial role in promoting structured programming.
    Impact:
-- Reduced the complexity of software development, making it easier to write, understand, and maintain code.
-- Laid the groundwork for modern programming languages and software development practices.
-- Introduced concepts like modularization, which became foundational in later software engineering methodologies.
+	- Reduced the complexity of software development, making it easier to write, understand, and maintain code.
+	- Laid the groundwork for modern programming languages and software development practices.
+	- Introduced concepts like modularization, which became foundational in later software engineering methodologies.
 
 -	The Emergence of Object-Oriented Programming (OOP) (1980s)
  Object-oriented programming became popular in the 1980s, introducing a new way of designing and building software systems. OOP is based on the concept of "objects," which are instances of classes that encapsulate data and behavior together.
  Key Contributors: Alan Kay, often credited with coining the term "object-oriented programming," and Bjarne Stroustrup, the creator of C++, are key figures in this movement.
-   - Impact:
+    Impact:
      - Improved code reuse, scalability, and maintainability by organizing software around objects rather than actions.
      - Encouraged the use of design patterns and principles like inheritance, encapsulation, and polymorphism.
      - Led to the development of popular programming languages like Java, C++, and Python, which are widely used today.
