@@ -7,7 +7,7 @@ Software Engineering Day1 Assignment
 Explain what software engineering is and discuss its importance in the technology industry.
 
   Software engineering is an engineering discipline that is concerned with all aspects of software production from initial conception to operation and maintenance. Software engineering is a discipline that involves applying engineering principles to the development of software. It is a systematic approach to designing, developing, testing, and maintaining software that ensures that the end product is of high quality, reliable, and meets the needs of the users. The goal of software engineering is to produce software that is efficient, easy to use, and easy to maintain. Software engineers also recognize that they must work within organizational and financial constraints, and they must look for solutions within these constraints.
-	Importance of Software Engineering in IT.
+	* Importance of Software Engineering in IT.
 -	Efficient systems: IT relies heavily on software to manage and process vast amounts of data. Software Engineering ensures that IT systems are efficient, allowing organizations to make the most of their technology investments.
 -	 System integration: IT environments often consist of various hardware and software components. Software Engineering helps in the seamless integration of these components, ensuring they work together harmoniously.
 -	Customization: Many IT solutions are tailored to the specific needs of organizations. Software Engineering enables the development of custom software applications that meet these unique requirements.
@@ -92,22 +92,24 @@ It is a methodology that emphasizes values such as Communication, Simplicity, Fe
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
-Software developer - The developer is responsible for writing the code and developing the entire software product. Aside from coding, a software developer is responsible for sending updates to the project manager and working closely with other team members, including the designer and QA engineer. Categories;
-	- Front-end developer. This programmer is responsible for building the user interfaces and all the components that make up the front end of a web application. The front-end programmer is skilled in using coding languages and frameworks like HTML, CSS, JavaScript, ReactJS, VueJS and Bootstrap.  
- 	-Back-end developer. The back-end programmer is responsible for coding that part of a website or application you can't see. This expert uses programming languages and frameworks, including PHP, MySQL, Java, Python, Ruby, Django, Laravel, and Kotlin, to build the server side, database and APIs that power the software. 
-	- Full-stack developer. The full-stack programmer has front and back-end skills and can build the user interface and the server side. 
-	- Android developer. An Android developer uses a combination of skills, including programming languages like Java and Kotlin and tools, to build apps for devices powered by the Android operating system. 
-	- iOS developer. This expert is responsible for using programming languages like Objective-C and Swift to develop apps for devices powered by Apple's iOS operating system. 
+Software developer - The developer is responsible for writing the code and developing the entire software product. Aside from coding, a software developer is responsible for sending updates to the project manager and working closely with other team members, including the designer and QA engineer.
+- Categories;
+- Front-end developer. This programmer is responsible for building the user interfaces and all the components that make up the front end of a web application. The front-end programmer is skilled in using coding languages and frameworks like HTML, CSS, JavaScript, ReactJS, VueJS and Bootstrap.  
+-Back-end developer. The back-end programmer is responsible for coding that part of a website or application you can't see. This expert uses programming languages and frameworks, including PHP, MySQL, Java, Python, Ruby, Django, Laravel, and Kotlin, to build the server side, database and APIs that power the software. 
+- Full-stack developer. The full-stack programmer has front and back-end skills and can build the user interface and the server side. 
+- Android developer. An Android developer uses a combination of skills, including programming languages like Java and Kotlin and tools, to build apps for devices powered by the Android operating system. 
+- iOS developer. This expert is responsible for using programming languages like Objective-C and Swift to develop apps for devices powered by Apple's iOS operating system. 
 
 Roles and Responsibilities;
- -Developing applications, programs and systems using programming languages and frameworks.
+ - Developing applications, programs and systems using programming languages and frameworks.
  - Maintaining and updating software to keep it functional.
  - Collaborating with other team members to ensure best practices when developing software.
  - Report to the project manager about the progress of the software development.
 
 QA Engineer
 Quality assurance engineers examine programs to identify bugs and defects, especially when they appear unexpectedly. To evaluate the effectiveness of various product functionalities and aspects, they frequently use a variety of tests. Senior QA engineers perform some tests through automation testing whereas others are through manual testing.
-Roles and Responsibilities;
+
+* Roles and Responsibilities;
 - Test planning – involves activities of defining the objectives of testing and the approach for meeting test objectives.
 - Test Strategy – Create a test strategy based on project requirements and schedules. Early testing to eliminate defects at an early stage reduces the bug fixing cost and time.
 - Executing tests with appropriate techniques (manually or by using test execution tools) and documenting testing failures.
@@ -122,7 +124,7 @@ Roles and Responsibilities;
 
 Project Manager
 A software project manager is the most important person inside a team who takes the overall responsibilities to manage the software projects and plays an important role in the successful completion of the projects. Software project managers are responsible for preparation and implementation of the software projects. Software project manager’s responsibilities are to analyze project constraints, establish the project objectives, coordinate the project’s internal and external teams, construct the project timelines and monitor the project’s key performance indicators.
-Role and Responsibilities;
+* Role and Responsibilities;
 - Preparing project proposals and discussing potential projects with clients and stakeholder.
 - Facilitating project initiation by defining project scope and requirements, and preparing the necessary documents and requirements
 - Developing project plans and timelines to ensure the timely submission of project deliverables
@@ -140,7 +142,7 @@ Discuss the importance of Integrated Development Environments (IDEs) and Version
 Integrated Development Environments (IDEs)	
   An integrated development environment (IDE) is a software application that helps programmers develop software code efficiently. It increases developer productivity by combining capabilities such as software editing, building, testing, and packaging in an easy-to-use application. Just as writers use text editors and accountants use spreadsheets, software developers use IDEs to make their job easier.
 
-Importance of IDEs;
+* Importance of IDEs;
 - Accelerates development and delivery
 Without an IDE interface, programmers must configure numerous development tools individually. By combining an IDE, developers may access the identical list of capabilities in one location, eliminating the need to often transfer between tools. Integration of development responsibilities more tightly also increases developer efficiency. No longer must programmers move between applications to complete tasks. In addition, the IDE’s tools and features assist programmers in organizing resources, preventing errors, and implementing shortcuts.
 - Encourages standardization
@@ -176,7 +178,7 @@ Whether centralized or distributed, version control is the cornerstone of effici
 It safeguards progress, clarifies the past, and smooths the path forward, ensuring that every team member can contribute their best work towards 
 crafting stellar software.
 
-Importance of Version Control Systems;
+* Importance of Version Control Systems;
 Version control is important for keeping track of changes to code, files, and other digital assets. You should use version control software for all assets and development projects that multiple team members will collaborate on. 
 
 - Improved Code Quality and Productivity
@@ -190,7 +192,7 @@ One of the key advantages of version control is its ability to facilitate seamle
 - Efficient Change Tracking
 With version control, developers can track changes to the codebase effectively. Every code modification is recorded, along with details such as who made the changes and when they were made. This level of transparency makes it easier for developers to understand the history of the codebase and identify the reasons behind specific changes. Additionally, version control systems allow developers to revert to previous versions of the code if needed, reducing the risk of introducing bugs or errors.
 
-Examples of Version Control systems(VCs);
+* Examples of Version Control systems(VCs);
 -	GitHub
 GitHub helps software teams to collaborate and maintain the entire history of code changes. You can track changes in code, turn back the clock to undo errors and share your efforts with other team members. It is a repository to host Git projects. Git is an open source version control system that features local branching, multiple workflows, and convenient staging areas. Git version control is an easy to learn option and offers faster operation speed.
 
@@ -198,6 +200,7 @@ GitHub helps software teams to collaborate and maintain the entire history of co
 Bitbucket is a part of the Atlassian software suite, so it can be integrated with other Atlassian services including HipChat, Jira, and Bamboo. The main features of Bitbucket are code branches, in-line commenting and discussions, and pull requests. It can be deployed on a local server, data center of the company, as well as on the cloud. Bitbucket allows you to connect with up to five users for free. This is good because you can try the platform for free before deciding to purchase.
 -	Git
 Undoubtedly the most widely used VCS today, Git reigns supreme for its distributed nature, flexibility, and powerful branching capabilities. It empowers developers to work offline, create independent branches for experimentation, and seamlessly merge changes. Git’s learning curve can be steeper compared to centralized systems, but its robust feature set and extensive community support make it a top contender for most projects.
+-  Vagrant
 
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
@@ -231,7 +234,7 @@ System testing is a black box testing method used to evaluate the completed and 
 -	Acceptance Testing
 Acceptance testing is the last phase of functional testing and is used to assess whether or not the final piece of software is ready for delivery. It involves ensuring that the product is in compliance with all of the original business criteria and that it meets the end user’s needs. This requires the product be tested both internally and externally, meaning you’ll need to get it into the hands of your end users for beta testing along with those of your QA team. Beta testing is key to getting real feedback from potential customers and can address any final usability concerns.
 
-  Importance in Software QA
+  * Importance in Software QA
 -	Reliability: Ensures the software functions correctly under different conditions and is reliable over time.
 -	Early Defect Detection: Helps identify and fix defects early in the development cycle, reducing costs and time spent on fixing issues later.
 -	Risk Mitigation: By thoroughly testing each aspect of the software, potential risks are identified and mitigated before the software is deployed.
@@ -245,7 +248,7 @@ Define prompt engineering and discuss its importance in interacting with AI mode
 - To define prompt engineering we need to front first Generative AI, what is Generative AI? Generative artificial intelligence (generative AI) is a type of AI that can create new content and ideas, including conversations, stories, images, videos, and music. AI technologies attempt to mimic human intelligence in nontraditional computing tasks like image recognition, natural language processing (NLP), and translation.
 - Prompt engineering is the process where you guide generative artificial intelligence (generative AI) solutions to generate desired outputs. Generative AI requires detailed instructions to create high-quality and relevant output. In prompt engineering, you choose the most appropriate formats, phrases, words, and symbols that guide the AI to interact with your users more meaningfully.
 
-   Importance;
+   * Importance;
 -	Greater developer control
 Prompt engineering gives developers more control over users' interactions with the AI. Effective prompts provide intent and establish context to the large language models. They help the AI refine the output and present it concisely in the required format. They also prevent your users from misusing the AI or requesting something the AI does not know or cannot handle accurately. For instance, you may want to limit your users from generating inappropriate content in a business AI application.
 -	Increased flexibility
