@@ -22,7 +22,8 @@ Explain what software engineering is and discuss its importance in the technolog
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
-Software engineering has evolved significantly over the decades, driven by advancements in technology, methodology, and the growing complexity of software systems. Here are three key milestones in the evolution of software engineering:
+Milestones include the development of programming languages (e.g., Fortran, C), the establishment of software engineering as a discipline in the 1960s, the advent of structured programming in the 1970s, and the rise of agile methodologies in the 2000s.
+
 -	The Introduction of Structured Programming (1960s-1970s)
    Structured programming emerged in the late 1960s and early 1970s as a way to improve the clarity, quality, and development time of software. It introduced the idea of breaking down programs into smaller, manageable modules or procedures, using control structures like loops, conditionals, and subroutines.
    Key Contributors: Prominent figures like Edsger Dijkstra, who famously argued against the use of the GOTO statement, played a crucial role in promoting structured programming.
